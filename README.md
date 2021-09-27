@@ -8,3 +8,6 @@ para o ficheiro em questão, quanto aos testes foi usado o video na sua totalida
 Devido ao facto de o video ser superior a 25mb que é o limite permitido pelo github o sampleVid.webm será obtido através de link Google drive.
 
 https://drive.google.com/file/d/1q1EdhWXl_JH6KEvK-n5nws1L4VfwYq2w/view?usp=sharing
+
+
+Caso se queira observar as imagens de calibração descomente  o código dentro da função calibration relativo ao show da imagem (irá estar devidamente explícito)
